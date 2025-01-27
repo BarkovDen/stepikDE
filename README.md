@@ -1,3 +1,2 @@
 # stepikDE
-Kurs stepik Data engineer
-Наш первый коммит ))
+Добрый вечер я диспетчер 
